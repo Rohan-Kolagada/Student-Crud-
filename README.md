@@ -9,7 +9,7 @@ Features
 4. Delete: Remove students from the database.
 
 Installation
-1. Clone the repository: git clone https://github.com/your-repo/student-crud.git
+1. Clone the repository: git clone https://github.com/Rohan-Kolagada/Student-Crud-.git
 2. Navigate to the project directory: cd student-crud
 3. Install the dependencies: npm install
 
