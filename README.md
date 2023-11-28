@@ -24,4 +24,4 @@ Installation
 
 Usage
 1. Start the server: mvn spring-boot:run
-2. Open your browser and visit http://localhost:3000
+2. Open your browser and visit http://20.26.237.114:5555/students
